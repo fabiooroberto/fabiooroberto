@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! I'm Fabio Roberto👋
+
+## Certificações:
+```
+ Microsoft AZ-900 - Azure Fundamentals 
+```
 
 <!--
 **fabiooroberto/fabiooroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
